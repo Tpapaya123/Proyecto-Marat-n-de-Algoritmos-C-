@@ -65,4 +65,5 @@ int main() {
     cout << "Valor retornado por dequeue(): " << eliminado << endl;
     mostrar_cola();
     return 0;
+
 }
